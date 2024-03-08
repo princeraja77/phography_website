@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .main_box{
-/*     background-image: url("./assets/camera.png"); */
+    background-image: url("./assets/camera.jpg");
   background-color:black;
     height: 100vh;
     background-size: cover;
